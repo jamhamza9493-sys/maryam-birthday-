@@ -1,0 +1,6 @@
+{
+  "name": "Maryam Yaseen - Birthday Surprise",
+  "description": "A deeply emotional, romantic, and cinematic birthday surprise web application dedicated to Maryam Yaseen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
